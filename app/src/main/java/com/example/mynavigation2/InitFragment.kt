@@ -40,6 +40,13 @@ class InitFragment : Fragment() {
             b.tvCount.setText(cont.toString())
         }
     }
+//    override fun onViewCreated(view:View, savedInstanceState: Bundle?){
+//        b.btnloquesea.setOnClickListener{
+//            val action =  InitFragmentDirections
+//                .actionInitFragmentToSecondFragment()
+//            view.findNavController().navigate(action)
+//        }}
+
 
 
 }
