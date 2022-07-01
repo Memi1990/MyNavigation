@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Navigation 2</string>
+    <string name="title">Fragment Navgation</string>
+    <string name="nextFrgFst">Go to fragment 1</string>
+    <string name="backFst">Atrás</string>
+    <string name="plus">+</string>
+    <string name="Count">0</string>
+    <string name="pantOne">1</string>
+</resources>
